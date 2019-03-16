@@ -1,0 +1,3 @@
+---- close Matches (2 in 1 files) ----
+main in main.c : 	 close(socket_fd);
+main in main.c : 		close(socket_fd);
